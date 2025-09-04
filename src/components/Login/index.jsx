@@ -70,7 +70,7 @@ export const Login = () => {
                     required
                 />
             </div>
-            <div className="mx-4">
+            <div className="mx-2">
                 <p>only email is john@mail.com and password is changeme</p>
             </div>
             <div className="mx-4">

@@ -1,0 +1,1 @@
+export const findProductinCart=(cart,id) =>cart?.length>0 && cart.some(product=>product.id===id);

@@ -71,6 +71,9 @@ export const Login = () => {
                 />
             </div>
             <div className="mx-4">
+                <p>only email is john@mail.com and password is changeme</p>
+            </div>
+            <div className="mx-4">
                 <button
                     type="submit"
                     className="button btn-primary btn-icon cart-btn d-flex align-center justify-center gap cursor btn-margin"

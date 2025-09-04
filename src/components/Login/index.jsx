@@ -71,8 +71,11 @@ export const Login = () => {
                 />
             </div>
             <div className="mx-2">
-                <p>only email is john@mail.com and password is changeme</p>
+              <p className="text-xs text-gray-500">
+                only email is john@mail.com and password is changeme
+              </p>
             </div>
+
             <div className="mx-4">
                 <button
                     type="submit"
